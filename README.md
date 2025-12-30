@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋, I'm Om Munde
 
-<!--
-**Ommunde/Ommunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+- 🔭 I’m currently working on personal and open-source software projects
+- 🌱 I’m currently learning web development, problem solving, and clean code practices
+- 👯 I’m looking to collaborate on open-source projects and practical applications
+- 🤔 I’m looking for help with growing as a developer and learning new technologies
+- 💬 Ask me about coding, GitHub, and learning tech
+- 📫 How to reach me: https://www.linkedin.com/in/ommunde31/
+- ⚡ Fun fact: I enjoy learning by building real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Tech Stack
+Languages:
+-JAVA, SQL, JavaScript, Python(Basics)
+
+Frameworks & Libraries:
+Node.js, basic frontend frameworks, MERN stack
+
+Tools & Platforms:
+Git, GitHub, VsCode, Miro
 -->
