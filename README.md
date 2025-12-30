@@ -13,11 +13,11 @@ Welcome to my GitHub profile! 🚀
 
 🛠️ Tech Stack
 Languages:
--JAVA, SQL, JavaScript, Python(Basics)
+JAVA, SQL, JavaScript, Python(Basics)
 
 Frameworks & Libraries:
 Node.js, basic frontend frameworks, MERN stack
 
 Tools & Platforms:
 Git, GitHub, VsCode, Miro
--->
+
