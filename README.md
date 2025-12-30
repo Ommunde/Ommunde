@@ -11,7 +11,6 @@ Welcome to my GitHub profile! 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/ommunde31/
 - ⚡ Fun fact: I enjoy learning by building real projects
 
-🛠️ Tech Stack
 Languages:
 JAVA, SQL, JavaScript, Python(Basics)
 
